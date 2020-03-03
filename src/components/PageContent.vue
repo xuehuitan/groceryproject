@@ -23,7 +23,11 @@ export default {
                     {name:'Jam',image:'/assets/jam.jfif',show:false},
                     {name:'CornFlakes',image:'/assets/cornflakes.jfif',show:false},
                     {name:'Milk',image:'/assets/milk.jfif',show:false},
-                    {name:'Juice',image:'/assets/juice.jfif',show:false}]
+                    {name:'Juice',image:'/assets/juice.jfif',show:false},
+                    {name:'Oranges',image:'./assets/orange.jpg',show:false},
+                    {name:'Peanut Butter',image:'/assets/peanutbutter.jpeg',show:false},
+                    {name:'Strawberries',image:'/assets/strawberries.jpg',show:false}
+                    ],
     }
   },
   components: {
